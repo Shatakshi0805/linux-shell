@@ -1,6 +1,6 @@
 # linux-shell
 
-this is a little linux shell implementation in C language. following ![Stephan Brennen's](https://brennan.io/2015/01/16/write-a-shell-in-c/) Write a Shell tutorial.
+this is a little linux shell implementation in C language. following [Stephan Brennen's](https://brennan.io/2015/01/16/write-a-shell-in-c/) Write a Shell tutorial.
 
 to use this:
 - download the file
